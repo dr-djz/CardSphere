@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Optimize Performance
+
+**Description**: Enhance application speed and efficiency.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Leverage Next.js features like SSR, SSG, and `next/image` for optimization.  
+- Use Redis for caching frequent data and optimize database queries with indexing.

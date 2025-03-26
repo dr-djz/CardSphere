@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Integrate Payment Systems Securely
+
+**Description**: Ensure secure payment processing.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Use Stripe or PayPal EU for payments.  
+- Ensure PCI compliance and avoid storing sensitive card details.

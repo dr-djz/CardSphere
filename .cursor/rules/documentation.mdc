@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Document Your Code and APIs
+
+**Description**: Maintain clear documentation for code and APIs.
+
+**Applies to**: **/*.{ts,tsx,js,jsx,md}
+
+**Details**:  
+- Add inline documentation with JSDoc and maintain a project README.  
+- Use Swagger or similar tools to document API endpoints.

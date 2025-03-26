@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Leverage Next.js Best Practices
+
+**Description**: Optimize frontend development with Next.js.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Use server components and API routes for efficient backend integration.  
+- Optimize images with `next/image` and implement lazy loading.

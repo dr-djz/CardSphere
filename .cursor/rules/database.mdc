@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Manage Database Interactions Effectively
+
+**Description**: Handle database operations securely and efficiently.
+
+**Applies to**: **/*.{ts,js}
+
+**Details**:  
+- Use Sequelize for ORM, manage migrations carefully, and parameterize queries to prevent SQL injection.  
+- Optimize queries with indexing and avoid N+1 problems.

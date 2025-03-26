@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Handle Environment Configurations
+
+**Description**: Adapt code to different environments.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Use environment variables (e.g., via `.env` files) for settings like database URLs or API keys.  
+- Ensure code works in development, testing, and production environments.

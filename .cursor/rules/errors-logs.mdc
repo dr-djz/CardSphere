@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Implement Error Handling and Logging
+
+**Description**: Enhance debugging and reliability.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Use try-catch blocks for error handling and return meaningful messages.  
+- Integrate logging (e.g., Winston or Morgan) for monitoring and debugging.

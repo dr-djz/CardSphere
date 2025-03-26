@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Implement Comprehensive Testing
+
+**Description**: Ensure code reliability through testing.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Write unit and integration tests using Jest or Mocha for frontend and backend.  
+- Use mock data only in tests, never in development or production environments.

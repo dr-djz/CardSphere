@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Organize Code into Multiple Files and Directories
+
+**Description**: Split code based on functionality to avoid monolithic structures.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Use separate directories (e.g., `pages/`, `components/`, `routes/`, `services/`) for distinct purposes.  
+- Ensure each file has a single responsibility to enhance modularity and maintainability.

@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Automate Git Commits After Changes
+
+**Description**: Automatically commit changes to prevent loss of progress.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Commit significant changes to Git with descriptive messages (e.g., "Auto-commit: Updated search logic").  
+- Target a working branch (e.g., `feature/dev-progress`) to keep the main branch clean.

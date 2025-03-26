@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Secure Your Application
+
+**Description**: Implement security best practices.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Use JWT for authentication and role-based authorization.  
+- Apply input validation, secure headers (e.g., Helmet), and enforce HTTPS.

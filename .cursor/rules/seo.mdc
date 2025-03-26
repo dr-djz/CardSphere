@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Optimize for SEO
+
+**Description**: Improve search engine visibility.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Use Next.js SSR for dynamic content rendering.  
+- Add meta tags, generate sitemaps, and ensure proper heading structures.

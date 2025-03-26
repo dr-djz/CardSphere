@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Keep Files Manageable
+
+**Description**: Limit file size for better maintainability.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Keep files under 300-400 lines of code.  
+- Refactor large files into smaller, modular components.

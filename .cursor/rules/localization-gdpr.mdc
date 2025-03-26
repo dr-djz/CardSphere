@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Implement Localization and GDPR Compliance
+
+**Description**: Support multiple languages and GDPR requirements.
+
+**Applies to**: **/*.{ts,tsx,js,jsx}
+
+**Details**:  
+- Use i18next for multilingual support with JSON translation files.  
+- Implement cookie consent, data encryption, and user data management for GDPR.
